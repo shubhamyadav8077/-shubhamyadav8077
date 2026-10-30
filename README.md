@@ -22,16 +22,15 @@
 
 ## 🧑‍💻 About Me
 
-```js
-const shubham = {
-  name: "Shubham Yadav",
-  education: "B.Tech (CC)",
-  role: "Student & Aspiring Developer",
-  currentlyLearning: ["DSA", "Web Development", "Python"],
-  funFact: "I debug with chai ☕ and patience",
-  lookingFor: "Projects, internships & collaborations",
-};
-```
+
+Hi, I'm **Shubham Yadav** 👋, a B.Tech (CC) student who loves turning ideas into working code.
+
+- 🎓 Pursuing **B.Tech in CC**
+- 🔭 Currently exploring **DSA, Web Development and Python**
+- 🛠️ Building small projects to learn by doing
+- 🌱 Always improving: one commit, one bug, one lesson at a time
+- 🤝 Open to **collaborations, internships and open-source contributions**
+- 📫 Reach me at **your-email@example.com**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
